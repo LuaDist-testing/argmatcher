@@ -1,8 +1,16 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = 'argmatcher'
 version = '0.1.1-1'
+-- LuaDist source
 source = {
-	url = 'git://github.com/gilzoide/argmatcher',
+  tag = "0.1.1-1",
+  url = "git://github.com/LuaDist-testing/argmatcher.git"
 }
+-- Original source
+-- source = {
+-- 	url = 'git://github.com/gilzoide/argmatcher',
+-- }
 description = {
 	summary = "Simple command line argument matcher for Lua",
 	detailed = [[
